@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&family=Oswald:wght@400;600&display=swap");
+.test {
+  height: 40px;
+  font-size: 18px;
+  line-height: 40px;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Oswald", "Noto Sans TC", sans-serif;
+  color: #FFF;
+  background-color: #3C3C3C;
+  margin: 10px;
+}
+.score-submit{
+ margin: 10px;
+}
+.form-control{
+  position: relative;
+  width: 200px;
+}
